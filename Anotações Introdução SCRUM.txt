@@ -1,0 +1,30 @@
+INTRODUÇÃO AO SCRUM
+
+- Gestão de Projetos Ágeis com SCRUM
+
+-> Desadio do desenvolvimento de Software
+	Gerenciamento de Tradicionaç
+      REQUISITOS * Processo de desenvolvimento
+		 * Concepção
+		 * Análise & DESIGN
+		 * Desenvolvimento
+		 * Teste
+		 * Implantação
+			V
+			v
+		   SOFTWARE
+
+Quando se desenvolve um software só 20% é utilizado pelo usuário
+	
+	* 45% nunca
+	* 19% Raramente
+	* 16% As Vezes
+	* 13% Frenquentemente
+	* 7% Sempre
+
+Gestão de Projetos Tradicionais x Ágil
+Tradicional  (Waterfall): Só permite que o projeto avance quando
+uma face está inteiramente completa.
+
+Ágil: Software  construido por partes (incremental) e cada parte 
+excura-se em ciclo (iterativo)
