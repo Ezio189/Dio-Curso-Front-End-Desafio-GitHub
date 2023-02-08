@@ -2,8 +2,8 @@ INTRODUÇÃO AO SCRUM
 
 - Gestão de Projetos Ágeis com SCRUM
 
--> Desadio do desenvolvimento de Software
-	Gerenciamento de Tradicionaç
+-> Desafio do desenvolvimento de Software
+	Gerenciamento de Tradicional
       REQUISITOS * Processo de desenvolvimento
 		 * Concepção
 		 * Análise & DESIGN
@@ -28,3 +28,36 @@ uma face está inteiramente completa.
 
 Ágil: Software  construido por partes (incremental) e cada parte 
 excura-se em ciclo (iterativo)
+
+Em projetos tradicionais (waterfall), você corre o risco de descobrir
+que estava errado depois de meses. Com o SCRUM vovê descrobre que estava
+errado em no máximo 30 dias.
+
+O que ser Ágil?
+ * Ágil é diferente de rápido.
+ * Rapidez (mudança e desembaraço;
+ * Fazer coisas complexas de forma simples;
+ * Equipe compremetida com o objetivo;
+ * Maior valor para o cliente
+
+Ter capacidade de responder rapidamente a mudança
+     
+               SCRUM
+> Scrum é um dos fremeworks de gerenciamente de projeto Ágil
+> Projetos usando aquipes pequenas e multidisciplinares produzem
+  os melhores resultados.
+
+Pilares do SCRUM
+
+ * Transparência 
+ * Adaptação
+ * Inspeção
+
+> Conversar mais e escrever menos;
+> Demonstrar o software contrantante aos usuário e obter 
+  feedbacks constantes;
+> Requisitos mudam ao longo do tempo;
+> Aprender progressivamente com usos do software
+
+       RAZÃO PARA ADOTAR O SCRUM
+
