@@ -77,6 +77,18 @@ Pilares do SCRUM
 
      EXERCÍCIO
 
+1.) Quais caracteristica de um projeto agil?
+R: Escopo, definido ao longo do projeto
+
+2.) Quais são os pilares do SCRUM?
+R: Adaptação, Transparencia e Inspeção.
+
+   PAPÉIS E RESPONSABILIDADES DE CADA TIME
+
+> Produt Owner PO
+> Scrum Master SM
+> Time de Desenvolderes DV.
+
 
 
 
