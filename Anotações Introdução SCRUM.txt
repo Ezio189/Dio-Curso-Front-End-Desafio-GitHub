@@ -61,3 +61,22 @@ Pilares do SCRUM
 
        RAZÃO PARA ADOTAR O SCRUM
 
+> Desenvolvimento e entregua em partes menores(2 a 4 semanas), com constante 
+  feedback do usuários;
+> Melhor gerenciamento de rísco, (redução de incertezas);
+> Comprometimento, motivação e transparência da equipe (dailey meeting);
+> Maior valor para o negócio, (priorização do backlog);
+> Usuários envolvidos durante todo o ciclo;
+> Aplicação das lições aprendidas (melhoria continua). 
+
+	CARACTERÍSTICAS DO TIME SCRUM
+
+> Equipes capazes de se auto-organizar;
+> As tarefas são do time a todos são responsáveis;
+> Forte comprometimento com os resultados.
+
+     EXERCÍCIO
+
+
+
+
