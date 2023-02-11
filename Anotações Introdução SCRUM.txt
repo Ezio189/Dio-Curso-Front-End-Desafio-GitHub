@@ -89,6 +89,29 @@ R: Adaptação, Transparencia e Inspeção.
 > Scrum Master SM
 > Time de Desenvolderes DV.
 
+ => PROCUCT OWNER (PO)
+ > Responsável da área de Negócios;
+ > PO não é um comitê (uma Pessoa);
+ > Defime as funcionalidades de software (Prodaudt Backlod);
+ > Prioriza as funcionalidades de acordo com o valor do negócio;
+ > Garante que o time de desenvolvimento entenda os itens do
+   backlog no nível necessário.
+
+ => SCRUM MASTER (SM)
+ > Garante o uso corret do SCRUM;
+ > Scrum Master não é o Gerenre do Projeto;
+ > Age com facilitador;
+ > Auxilia a equipe a remover impedimento;
+ > Treinar o time em autogerenciamento e interdisciplinaridade;
+
+ => TIME DE DESENVOLVIMENTO (DEV)
+ > Possui habilidades sufuciente para desenvolver, testar, criar e
+   desenhar ou seja tudo que for necessário para entregar o software
+   funcionando.
+
+    EXERCÍCIO
+
+
 
 
 
